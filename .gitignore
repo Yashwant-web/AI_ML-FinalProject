@@ -1,0 +1,8 @@
+.venv/
+*.csv
+*.log
+*.docx
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
